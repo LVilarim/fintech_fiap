@@ -1,0 +1,5 @@
+--Link para o repositório no github: https://github.com/LVilarim/fintech_fiap.git
+
+--Caso tenha dificuldades para encontrar, pesquise meu perfil: LVilarim
+
+--O respositório está público e tem esse nome: fintech_fiap
